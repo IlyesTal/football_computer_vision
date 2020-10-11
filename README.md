@@ -5,3 +5,4 @@ Deep learning is more and more used for football preformance analysis. In this t
 You can find the full tutorial on [La revue IA](https://larevueia.fr/deep-learning-pour-le-football-computer-vision-partie-i/). 
 
 This is only the beginnig of this project, I will be updating it every week. Feel free to share any advice or suggestion.
+
